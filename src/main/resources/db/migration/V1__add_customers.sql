@@ -1,0 +1,3 @@
+CREATE TABLE customers(
+    ID VARCHAR(128) PRIMARY KEY
+);

@@ -1,0 +1,3 @@
+CREATE TABLE orders(
+    ID VARCHAR(128) PRIMARY KEY
+);
