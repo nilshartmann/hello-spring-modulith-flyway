@@ -1,0 +1,1 @@
+CREATE TABLE order_items(id VARCHAR PRIMARY KEY );
